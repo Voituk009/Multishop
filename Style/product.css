@@ -1,0 +1,33 @@
+.price {
+    font-size: 40px;
+}
+
+.buy {
+    min-width: 150px;
+}
+
+.view {
+    width: 100%;
+}
+
+.link {
+    margin-bottom: -1px;
+    color: #ffffff;
+}
+
+.basbtn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.baskedbtn {
+    min-width: 100px;
+}
+
+.card-text{
+    white-space: nowrap;
+    width: 100%;
+    overflow:  hidden;
+    text-overflow: ellipsis;
+    border: 1px solid #ffffff; 
+}
